@@ -1,0 +1,25 @@
+# ninja log v6
+72	583	7505635139817119	C:/Users/adamn/Documents/ProstheticDesigner/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/ProstheticDesigner_autogen/mocs_compilation.cpp	9df17dbd834623bd
+590	2111	7505635140427144	CMakeFiles/ProstheticDesigner.dir/main.cpp.obj	faa2982ed841198a
+18	83	7505636447795679	C:/Users/adamn/Documents/ProstheticDesigner/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	4327c0d53d2c8bc2
+72	583	7505635139817119	ProstheticDesigner_autogen/timestamp	9df17dbd834623bd
+72	583	7505635139817119	ProstheticDesigner_autogen/mocs_compilation.cpp	9df17dbd834623bd
+72	583	7505635139817119	C:/Users/adamn/Documents/ProstheticDesigner/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/ProstheticDesigner_autogen/timestamp	9df17dbd834623bd
+593	2115	7505635140447147	CMakeFiles/ProstheticDesigner.dir/mainwindow.cpp.obj	264c30019e11deb4
+588	2042	7505635140397206	CMakeFiles/ProstheticDesigner.dir/ProstheticDesigner_autogen/mocs_compilation.cpp.obj	9e978473cc0d0e08
+2115	2251	7505635155667213	ProstheticDesigner.exe	17fccf52bab3f1d
+84	689	7505636453515696	build.ninja	cd4bd228e6e9a7ae
+16	83	7505636454325688	C:/Users/adamn/Documents/ProstheticDesigner/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	4327c0d53d2c8bc2
+91	224	7505636455075690	ProstheticDesigner_autogen/timestamp	9df17dbd834623bd
+91	224	7505636455075690	ProstheticDesigner_autogen/mocs_compilation.cpp	9df17dbd834623bd
+91	224	7505636455075690	C:/Users/adamn/Documents/ProstheticDesigner/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/ProstheticDesigner_autogen/timestamp	9df17dbd834623bd
+91	224	7505636455075690	C:/Users/adamn/Documents/ProstheticDesigner/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/ProstheticDesigner_autogen/mocs_compilation.cpp	9df17dbd834623bd
+224	1752	7505636456405691	CMakeFiles/ProstheticDesigner.dir/mainwindow.cpp.obj	264c30019e11deb4
+1752	1897	7505636471675694	ProstheticDesigner.exe	17fccf52bab3f1d
+15	75	7505636931820469	C:/Users/adamn/Documents/ProstheticDesigner/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	4327c0d53d2c8bc2
+83	200	7505636932490410	ProstheticDesigner_autogen/timestamp	9df17dbd834623bd
+83	200	7505636932490410	ProstheticDesigner_autogen/mocs_compilation.cpp	9df17dbd834623bd
+83	200	7505636932490410	C:/Users/adamn/Documents/ProstheticDesigner/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/ProstheticDesigner_autogen/timestamp	9df17dbd834623bd
+83	200	7505636932490410	C:/Users/adamn/Documents/ProstheticDesigner/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/ProstheticDesigner_autogen/mocs_compilation.cpp	9df17dbd834623bd
+200	1639	7505636933660344	CMakeFiles/ProstheticDesigner.dir/mainwindow.cpp.obj	264c30019e11deb4
+1639	1772	7505636948050450	ProstheticDesigner.exe	17fccf52bab3f1d
